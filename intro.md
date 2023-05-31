@@ -50,7 +50,7 @@ paid resources:
 
 Finally: this is a toy implementation that barely works, not a guide to writing
 production DNS software. I've never written production DNS software and don't
-have any advice about how to do it well. A couple of links:
+have any advice about how to do it well, but it's definitely not like this. A couple of links:
 
-* [this long list of RFCs related to DNS](https://www.statdns.com/rfc/) gives you a sense for DNS's complexity
+* [this long list of RFCs related to DNS](https://www.statdns.com/rfc/) gives you a sense for DNS's actual complexity
 * [hello DNS from PowerDNS](https://powerdns.org/hello-dns/) has a teaching implementation that focuses more on standards compliance and correctness
