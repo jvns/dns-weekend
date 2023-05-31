@@ -45,3 +45,12 @@ free resources:
 paid resources:
 
 * my [How DNS Works](https://wizardzines.com/zines/dns) zine
+
+## This is a toy
+
+Finally: this is a toy implementation that barely works, not a guide to writing
+production DNS software. I've never written production DNS software and don't
+have any advice about how to do it well. A couple of links:
+
+* [this long list of RFCs related to DNS](https://www.statdns.com/rfc/) gives you a sense for DNS's complexity
+* [hello DNS from PowerDNS](https://powerdns.org/hello-dns/) has a teaching implementation that focuses more on standards compliance and correctness
