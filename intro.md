@@ -9,6 +9,9 @@ Here are a few possible ways to read this, in ascending order of difficulty:
    code into another language to be a really nice balance of difficulty.
 4. Add extra features (there are some "extra fun" ideas at the end!)
 
+So far people have [implemented DNS](https://github.com/search?q=dns+weekend&type=repositories) in: Go, C#, C, Clojure, Python, Ruby, Kotlin, Rust,
+Typescript, Haskell, OCaml, Elixir, Odin, and probably more languages too.
+
 ## System requirements
 
 You only need Python >= 3.8. No libraries.
