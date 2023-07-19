@@ -32,8 +32,8 @@ def decode_name_simple(reader):
 def parse_question(reader):
     name = decode_name_simple(reader)
     data = reader.read(4)
-    type, class_ = struct.unpack('!HH', data)
-    return DNSQuestion(name, type, class_)
+    type_, class_ = struct.unpack('!HH', data)
+    return DNSQuestion(name, type_, class_)
 
 
 from io import BytesIO
